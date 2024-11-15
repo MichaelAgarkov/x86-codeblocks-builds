@@ -19,6 +19,11 @@ Then extract the archive into /opt/codeblocks, export /opt/codeblocks/bin to PAT
 Run codeblocks!
 
 > [!NOTE]
+<<<<<<< HEAD
 > This package requires a working MSYS2 Environment on your computer and lacks the CbLauncher.exe.
 > For the availability of CbLauncher.exe and those necessary dependencies, please refer to one of the other repository's fork:
+=======
+> This package requires a working MSYS2 Environment on your computer.
+> Those who don't want to install MSYS2 please refer to one of this repository's fork:
+>>>>>>> dfd6a906320d82b6e90d0f6e7ec443deb4333524
 > [asmwarrior/x86-codeblocks-builds](https://github.com/asmwarrior/x86-codeblocks-builds)
